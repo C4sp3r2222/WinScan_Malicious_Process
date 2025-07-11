@@ -76,9 +76,11 @@ PS C:\Users\USER\Desktop> .\WinScan_Malicious_Process.ps1
 
 
 
+![scanprog2](https://github.com/user-attachments/assets/54bf9035-7384-4e09-9f97-9a2a9ff79928)
+
+
 ![scanprog1](https://github.com/user-attachments/assets/0ad01abe-76d6-45b9-ae8b-6cf6c2018ad2)
 
-![scanprog2](https://github.com/user-attachments/assets/54bf9035-7384-4e09-9f97-9a2a9ff79928)
 
 ![scanprog3](https://github.com/user-attachments/assets/5b5d5dad-fbaf-414b-a804-1982628c2c36)
 
